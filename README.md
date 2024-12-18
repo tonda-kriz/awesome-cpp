@@ -845,6 +845,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Wykobi](https://www.wykobi.com) - A C++ library of efficient, robust and simple to use C++ 2D/3D oriented computational geometry routines. [MIT]
 * [xtensor](https://github.com/xtensor-stack/xtensor) - A C++14 library for numerical analysis with multi-dimensional array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](https://xtensor-stack.github.io/xtensor)
 * [universal](https://github.com/stillwater-sc/universal) - A C++14 header-only library implementing arbitrary posit arithmetic. The posit number system is a tapered floating point that is more efficient than IEEE floating point. Posits enable reproducible computational science. [MIT license]
+* [XAD](https://github.com/auto-differentiation/xad) - Powerful Automatic Differentiation for C++. [AGPL] [website](https://auto-differentiation.github.io/)
 
 ## Memory Allocation
 
@@ -979,6 +980,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [PlayRho](https://github.com/louis-langholtz/PlayRho) - An interactive physics engine & library.  [Zlib]
 * [Project Chrono](https://github.com/projectchrono/chrono) - An open source multi-physics simulation engine. [BSD-3-Clause] [website](https://projectchrono.org/)
 * [Quantum++](https://github.com/vsoftco/qpp) - A modern C++11 quantum computing library. [MIT]
+* [QuarkPhysics](https://github.com/erayzesen/QuarkPhysics) - A 2D Soft Body and Rigid Body Physics Engine. [MIT]
 * [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. [Apache2]
 * [SOFA](https://github.com/sofa-framework/sofa) - SOFA is an open-source framework targeting at real-time simulation, with an emphasis on medical simulation. [LGPL] [website](https://www.sofa-framework.org)
 
@@ -1015,6 +1017,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [SLRE](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. [GPLv2/Proprietary]
 * [sregex](https://github.com/openresty/sregex) - A non-backtracking NFA/DFA-based Perl-compatible regex engine library for matching on large data streams. [BSD]
 * [SRELL](https://www.akenotsuki.com/misc/srell/en/) - Unicode-aware regular expression template library for C++. [BSD]
+* [Vectorscan](https://github.com/VectorCamp/vectorscan) - A portable fork of the high-performance regular expression matching library. [BSD-3-Clause] [website](https://www.vectorcamp.gr/project/vectorscan/)
 
 ## Robotics
 
@@ -1090,6 +1093,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format. [BSD]
 * [simple-protobuf](https://github.com/tonda-kriz/simple-protobuf) - Serialize (and deserialize) C++ structs directly to JSON or protobuf. [MIT]
 * [protobuf-c](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C. [BSD]
+* [Protocol Puffers](https://github.com/PragmaTwice/protopuf) - A little, highly templated, and protobuf-compatible serialization/deserialization header-only library written in C++20. [Apache-2.0]
 * [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. [Apache2]
 * [upb](https://github.com/protocolbuffers/upb) - A small protobuf implementation in C. [BSD]
 * [Wirehair](https://github.com/catid/wirehair) - O(N) Fountain Code for Large Data. [BSD-3-Clause]
@@ -1191,6 +1195,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [DynaMix](https://github.com/iboB/dynamix) - A library which allows you to compose and modify objects at run time. [MIT]
 * [emio](https://github.com/Viatorus/emio) - A safe and fast high-level and low-level character input/output library. [MIT]
 * [faker-cxx](https://github.com/cieslarmichal/faker-cxx) - C++20 Faker library for generating fake (but realistic) data for testing and development. [MIT]
+* [fast_float](https://github.com/fastfloat/fast_float) - Fast, Exact C++ from_chars, 4x to 10x faster than strtod, part of GCC 12, Chromium, Redis, Webkit/Safari. [Apache2/BSL-1.0/MIT]
 * [FastFormat](http://www.fastformat.org) - Fast, Safe C++ Formatting inspired by log4j and Pantheios. [Simplified BSD]
 * [fast_io](https://github.com/cppfastio/fast_io) - Significantly faster input/output for C++20. [MIT]
 * [fccf](https://github.com/p-ranav/fccf) - A command-line tool that recursively searches a directory to find C/C++ source code matching a search string. [MIT]
@@ -1235,6 +1240,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [StringZilla](https://github.com/ashvardanian/StringZilla) - the Godzilla of string libraries, splitting, sorting, and shuffling large textual datasets faster than you can say "Tokyo Tower". [Apache-2.0]
 * [StrTk](https://www.partow.net/programming/strtk/index.html) - A C++ library consisting of high performance string processing routines. [MIT]
 * [tgbotxx](https://github.com/baderouaich/tgbotxx) - Telegram Bot C++ Library. [MIT]
+* [tiny::optional](https://github.com/Sedeniono/tiny-optional/) - Replacement for std::optional that does not waste memory unnecessarily. [BSL-1.0]
 * [Tulip Indicators](https://tulipindicators.org) - A C library of over 100 financial technical analysis indicators. [LGPL]
 * [ub-canaries](https://github.com/regehr/ub-canaries) - A collection of C/C++ programs that try to get compilers to exploit undefined behavior.
 * [value-category-cheatsheet](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. [Jank copyleft]
